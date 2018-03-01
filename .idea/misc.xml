@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/combinator-parsing-template" value="1485625302000" />
+        <entry key="$USER_HOME$/Downloads/play-Assignment-1-Nitin-Aggarwal-master" value="1488825351000" />
+        <entry key="$USER_HOME$/cheatcode" value="1456807256000" />
+        <entry key="$USER_HOME$/code-combat/cc-KnolSpecialist/knol-specialists" value="1497608989703" />
+        <entry key="$USER_HOME$/code-combat/cc-knolspecialist" value="1497609675700" />
+        <entry key="$USER_HOME$/code-combat/knol-specialist" value="1498625623161" />
+        <entry key="$USER_HOME$/knolx/lagom-scala-sbt" value="1515238746000" />
+        <entry key="$USER_HOME$/lagom-unmanaged-service/activator-lagom-cargotracker" value="1508170495414" />
+        <entry key="$USER_HOME$/lagom-unmanaged-service/online-auction-java" value="1503910558016" />
+        <entry key="$USER_HOME$/play-assignment/application" value="1488720901960" />
+        <entry key="$USER_HOME$/play-assignment/sahil/play-assignment" value="1488949809139" />
+        <entry key="$USER_HOME$/play/example" value="1488350619271" />
+        <entry key="$USER_HOME$/rccl-project/rccl.booking.july/Untitled Folder/lagom-kafka-consumer-only.g8" value="1504157682092" />
+        <entry key="$USER_HOME$/slick/slick-play/slick-play" value="1489477300672" />
+        <entry key="$USER_HOME$/slick/slick-scala/slick" value="1489125995150" />
+        <entry key="$USER_HOME$/test-monday" value="1486096902175" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
